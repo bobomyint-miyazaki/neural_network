@@ -1,2 +1,7 @@
-# neural_network
-"AI and Machine Learning for Coders:Laurence Moroney" Book Work
+# Neural Network Training (zero to hero!)
+
+# References:
+
+Book : AI and Machine Learning for Coders by Laurence Moroney
+
+
